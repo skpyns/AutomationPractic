@@ -1,0 +1,62 @@
+2022-04-21 15:32:42,172 : INFO : test_categories :Searching product categories.
+2022-04-21 15:32:42,416 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 15:32:42,417 : INFO : test_categories :Popular product list equals 7 and best selling products list equals to 7.
+2022-04-21 15:54:08,211 : INFO : test_categories :Searching product categories.
+2022-04-21 15:54:08,461 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 15:54:08,462 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-21 16:21:07,855 : INFO : test_categories :Searching product categories.
+2022-04-21 16:21:08,120 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 16:21:08,121 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-21 16:23:42,319 : INFO : test_categories :Searching product categories.
+2022-04-21 16:23:42,512 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 16:23:42,513 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-21 16:29:09,672 : INFO : test_categories :Searching product categories.
+2022-04-21 16:32:31,242 : INFO : test_categories :Searching product categories.
+2022-04-21 16:49:48,368 : INFO : test_categories :Searching product categories.
+2022-04-21 16:50:13,732 : INFO : test_categories :Searching product categories.
+2022-04-21 16:51:21,292 : INFO : test_categories :Searching product categories.
+2022-04-21 16:51:56,490 : INFO : test_categories :Searching product categories.
+2022-04-21 16:51:56,653 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 16:51:56,654 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-21 16:52:22,952 : INFO : test_categories :Searching product categories.
+2022-04-21 16:52:23,117 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-21 16:52:23,117 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 21:42:30,289 : INFO : test_categories :Searching product categories.
+2022-04-22 21:46:40,474 : INFO : test_categories :Searching product categories.
+2022-04-22 21:46:40,639 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 21:46:40,639 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 21:53:46,626 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 21:54:10,167 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 21:54:15,571 : INFO : test_creatingaccount :Account created.
+2022-04-22 21:54:22,628 : INFO : test_categories :Testing categories.
+2022-04-22 21:54:22,795 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 21:54:22,795 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 21:55:19,299 : INFO : test_CheckoutOrder :Testing finished.
+2022-04-22 21:56:11,431 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 21:56:35,561 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 21:56:41,823 : INFO : test_creatingaccount :Account created.
+2022-04-22 21:56:48,577 : INFO : test_categories :Testing categories.
+2022-04-22 21:56:48,742 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 21:56:48,742 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 21:57:47,122 : INFO : test_CheckoutOrder :Testing finished.
+2022-04-22 21:59:29,260 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 21:59:39,051 : INFO : test_creatingaccount :Account created.
+2022-04-22 21:59:45,802 : INFO : test_categories :Testing categories.
+2022-04-22 21:59:45,967 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 21:59:45,967 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 22:05:30,532 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 22:05:36,932 : INFO : test_creatingaccount :Account created.
+2022-04-22 22:05:44,038 : INFO : test_categories :Testing categories.
+2022-04-22 22:05:44,205 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 22:05:44,205 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 22:06:49,919 : INFO : test_CheckoutOrder :Testing finished.
+2022-04-22 22:33:26,094 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 22:33:47,261 : INFO : test_categories :Testing categories.
+2022-04-22 22:33:47,414 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 22:33:47,414 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 22:34:19,535 : INFO : test_creatingaccount :Testing account creation.
+2022-04-22 22:34:27,908 : INFO : test_creatingaccount :Account created.
+2022-04-22 22:34:37,362 : INFO : test_categories :Testing categories.
+2022-04-22 22:34:37,514 : INFO : test_categories :Confirming expected results with actual result.
+2022-04-22 22:34:37,514 : INFO : test_categories :Popular product list equals to 7 and best selling products list equals to 7.
+2022-04-22 22:38:08,957 : INFO : test_CheckoutOrder :Testing finished.
